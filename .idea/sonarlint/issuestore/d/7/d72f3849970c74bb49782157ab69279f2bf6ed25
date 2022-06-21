@@ -1,0 +1,10 @@
+
+A
+java:S1128"+Remove this unused import 'retrofit2.Call'.(Çö÷›
+E
+java:S1128"/Remove this unused import 'retrofit2.http.GET'.(¬ü‰´
+K
+java:S1128"0Remove this unused import 'retrofit2.http.POST'.(Ä­×”øÿÿÿÿ
+F
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤•Ä‘ÿÿÿÿÿ

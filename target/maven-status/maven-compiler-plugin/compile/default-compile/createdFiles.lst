@@ -1,0 +1,5 @@
+student\demo\pro\parcticePro\controller\StudentController.class
+student\demo\pro\parcticePro\entity\Student.class
+student\demo\pro\parcticePro\ParcticeProApplication.class
+student\demo\pro\parcticePro\repo\StudentRepo.class
+student\demo\pro\parcticePro\service\StudentService.class
